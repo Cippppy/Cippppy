@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Christian 👋
+I am an Honors Student at Rowan University Studying Electrical & Computer Engineering!
+
+## 🔭 I’m currently working on ...
+<ol>
+  <li>Improving my GitHub Profile & Repositories</li>
+  <li>Creating my personal portfolio website</li>
+</ol>
+
+## Checkout My Projects / Contact Info
+<ol>
+  <li><b>My Linkedin:</b> https://www.linkedin.com/in/christian-cipolletta/ </li>
+  <li><b>My Personal Website:</b> https://users.rowan.edu/~cipoll17/index.html </li>
+</ol>
 
 <!--
 **Cippppy/Cippppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
