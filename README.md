@@ -1,5 +1,5 @@
 # Hi there, I'm Christian 👋
-I am an Honors Student at Rowan University Studying Electrical & Computer Engineering!
+I am an Honors Electrical & Computer Engineering student at Rowan University.
 
 ## 🔭 I’m currently working on ...
 <ol>
